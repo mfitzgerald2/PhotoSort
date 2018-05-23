@@ -1,0 +1,11 @@
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\bin\Debug\PhotoSortV2.exe.config
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\bin\Debug\PhotoSortV2.exe
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\bin\Debug\PhotoSortV2.pdb
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\obj\Debug\PhotoSortV2.csprojResolveAssemblyReference.cache
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\obj\Debug\PhotoSortV2.Properties.Resources.resources
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\obj\Debug\PhotoSortV2.csproj.GenerateResource.Cache
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\obj\Debug\PhotoSortV2.csproj.CoreCompileInputs.cache
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\obj\Debug\PhotoSortV2.exe
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\obj\Debug\PhotoSortV2.pdb
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\obj\Debug\PhotoSortV2.Form1.resources
+C:\Users\Matt Fitzgerald\Documents\Development\Sodtware\PhotoSortV2\PhotoSortV2\bin\Debug\Resources\ftslogo.png
